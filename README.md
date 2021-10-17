@@ -1,1 +1,1 @@
-A very simplistic stock screener.
+A very simplistic stock screener. By Rahul Gudise // LangLazy
