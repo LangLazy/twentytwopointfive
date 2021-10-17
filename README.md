@@ -1,2 +1,1 @@
-# twentytwopointfive
-A simplistic stock screener
+A very simplistic stock screener.
